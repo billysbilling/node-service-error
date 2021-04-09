@@ -7,7 +7,7 @@ Install
 -------
 
 ```bash
-npm install @razvanz/service-error
+npm install @billyfree/service-error
 ```
 
 Usage
@@ -26,7 +26,7 @@ const ERROR_MAP = {
     message: '%s'
   }
 }
-const ServiceError = require('@razvanz/service-error')
+const ServiceError = require('@billyfree/service-error')
 const createError = ServiceError.factory(ERROR_MAP)
 
 // Create a default, E_INTERNAL, error
