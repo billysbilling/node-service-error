@@ -1,6 +1,6 @@
 {
   "name": "@billyfree/service-error",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Utility for better error management in NodeJS",
   "main": "src/service-error.js",
   "engines": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/razvanz/node-service-error.git"
+    "url": "git+https://github.com/billysbilling/node-service-error.git"
   },
   "keywords": [
     "error",
@@ -24,9 +24,9 @@
   "author": "Razvan Laurus <razvanlaurus@gmail.com>",
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {
-    "url": "https://github.com/razvanz/node-service-error/issues"
+    "url": "https://github.com/billysbilling/node-service-error/issues"
   },
-  "homepage": "https://github.com/razvanz/node-service-error#readme",
+  "homepage": "https://github.com/billysbilling/node-service-error#readme",
   "devDependencies": {
     "chai": "^4.1.2",
     "eslint": "^4.7.2",
